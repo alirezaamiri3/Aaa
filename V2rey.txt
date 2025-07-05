@@ -1,0 +1,2 @@
+vless://abc123@yourserver.com:443?type=ws&security=tls#MainServer
+vless://xyz789@backup.net:80?type=tcp&security=none#BackupServer
