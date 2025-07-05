@@ -1,1 +1,1 @@
-vless://194e2943-96da-4065-a1ef-7cf1d4639770@hf.tin9.ir:2052?path=%2F&security=&encryption=none&type=ws#hf-users-hf5new
+vless://1262f162-23cb-4072-ab25-93d682179bb2@trcdn5.ildeco.ir:8080?mode=auto&path=%2Flogin&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=chrome&type=xhttp#5ghub.net
