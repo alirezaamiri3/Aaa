@@ -1,1 +1,1 @@
-vless://9dd497c5-7f66-4965-8c86-05598e4847ad@ger.tldoom.online:31197?security=&encryption=none&host=JBifV.divarcdn.com%2CY83zn.snappfood.ir%2C7ir5F.yjc.ir%2CZpCvn.digikala.com%2CLJb8H.tic.ir&headerType=http&type=tcp#Germany-Alireza%20gr
+vless://9dd497c5-7f66-4965-8c86-05598e4847ad@ger.tldoom.online:31197?security=none&encryption=none&host=JBifV.divarcdn.com,Y83zn.snappfood.ir,7ir5F.yjc.ir,ZpCvn.digikala.com,LJb8H.tic.ir&headerType=http&type=tcp#Germany-Alireza gr
